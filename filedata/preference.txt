@@ -1,0 +1,11 @@
+name:Tom
+Medical Condition Type:2
+pref-1:when 27 suggest pool,cinema
+pref-2:when APO suggest cinema
+pref-3:when weather suggest cinema
+
+name:Jane
+Medical Condition Type:1
+pref-1:when 27 suggest shops
+pref-2:when APO suggest cinema
+pref-3:when weather suggest shops
